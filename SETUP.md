@@ -37,6 +37,8 @@ Then open **http://localhost:8000** (or the port shown) in your browser.
 
 ## When you’re ready to add your data
 
+**See PERSONALIZE.md** for a full file-by-file list of what to change. Summary: only **index.html** and **assets/images/** contain your data; **script.js** and **style.css** do not.
+
 Edit **`index.html`** and update:
 
 | Section   | What to change |
